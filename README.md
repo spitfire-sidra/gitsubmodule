@@ -1,3 +1,3 @@
-# gjtsubmodule
+# gitsubmodule
 
 git
